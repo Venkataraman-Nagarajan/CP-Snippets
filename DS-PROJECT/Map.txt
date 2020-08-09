@@ -1,0 +1,19 @@
+ButtRoad Alwarpet 9.8
+Ennore Thiruvottiyur 15.7
+Minjur Ennore 13.1
+Thiruvottiyur Royapuram 6.9
+Thiruvottiyur Mint 9.2
+Royapuram Mint 3.2
+Royapuram Central 6.0
+Mint Central 4.3
+Mint Perambur 8.3
+Central MountRoad 3.6
+MountRoad Mylapore 8.1
+Mylapore Alwarpet 3.6
+Mylapore Thiruvanmiyur 8.6
+Mylapore Velachery 11.0
+Thiruvanmiyur MGM 18.2
+Velachery CMBT 12.0
+MGM Tambaram 24.2
+Guindy Thiruvanmiyur 12.1
+

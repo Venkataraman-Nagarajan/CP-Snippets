@@ -1,0 +1,40 @@
+Minjur
+Ennore
+Thiruvottiyur
+Royapuram
+Central
+Mint
+Perambur
+Mylapore
+Alwarpet
+MountRoad
+Thiruvanmiyur
+CMBT
+MGM
+Velachery
+
+Minjur Ennore 13.1
+Ennore Thiruvottiyur 15.7
+Thiruvottiyur Royapuram 6.9
+Thiruvottiyur Mint 9.2
+Royapuram Mint 3.2
+Royapuram Central 6.0
+Mint Central 4.3
+Mint Perambur 8.3
+Central MountRoad 3.6
+MountRoad Mylapore 8.1
+Mylapore Alwarpet 3.6
+Mylapore Thiruvanmiyur 8.6
+Mylapore Velachery 11.0
+Thiruvanmiyur MGM 18.2
+Velachery CMBT 12.0
+
+
+1 Prime Mylapore 0 0 0
+2 Sedan Ennore 0 0 0
+3 Sedan CMBT 0 0 0
+4 Micro Thiruvanmiyur 0 0 0
+5 Prime MountRoad 0 0 0
+6 Micro Royapuram 0 0 0
+7 Sedan MGM 0 0 0
+8 Prime Velachery 0 0 0
